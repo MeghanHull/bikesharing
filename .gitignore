@@ -1,3 +1,10 @@
+# Local config / vs files
+bikesharing.code-workspace
+
+# Clean starter files
+data/
+NYC_CitiBike_Challenge_starter_code.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
