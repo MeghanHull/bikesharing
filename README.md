@@ -21,7 +21,9 @@ The purpose of this project is to visually show the differences between the magn
 
 ## Resources
 ### Data Sources
-1. [USGS Earthquake Real-Time GeoJSON for the last 7 days](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson)
+1. [201908-citibike-tripdata.csv](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)[^7]
+
+[^7]: Citi Bike. "Citi Bike trip history data - August 2019". [https://ride.citibikenyc.com/system-data](https://ride.citibikenyc.com/system-data) Updated: 18 September 2019 15:33:14 EDT. Accessed: 08 August 2022 16:36 CDT.
 
 ### Software & CDNs
 <!-- Leaflet is a content delivery network -->
@@ -41,6 +43,41 @@ The purpose of this project is to visually show the differences between the magn
 ## Visualizations
 <!-- There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt) -->
+
+<!--D2 Viz 1-->
+<details><summary>View 'Checkout Times for Users'</summary>
+  <p>
+  <img src="images/checkout_users.png">
+  </p>
+</details>
+
+<!--D2 Viz 2-->
+<details><summary>View 'Checkout Times by Gender'</summary>
+  <p>
+  <img src="images/checkout_gender.png">
+  </p>
+</details>
+
+<!--D2 Viz 3-->
+<details><summary>View 'Trips by Weekday per Hour'</summary>
+  <p>
+  <img src="images/weekday_trips.png">
+  </p>
+</details>
+
+<!--D2 Viz 4-->
+<details><summary>View 'Trips by Gender (Weekday per Hour)'</summary>
+  <p>
+  <img src="images/weekday_trips_gender.png">
+  </p>
+</details>
+
+<!--D2 Viz 5-->
+<details><summary>View 'User Trips by Gender by Weekday'</summary>
+  <p>
+  <img src="images/trips_gender.png">
+  </p>
+</details>
 
 # Project Summary
 <!--There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)-->
