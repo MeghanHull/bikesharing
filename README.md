@@ -31,14 +31,11 @@ The purpose of this project is to visually show the differences between the magn
 | Software | Version |
 | :--- | :---: |
 | Python | 3.7.13 |
-| JavaScript | ES6+ |
-| BootStrap CDN | 4.0.0 |
-| D3 CDN | 5.16.0 |
-| Leaflet CDN | 1.8.0 |
 | Visual Studio Code | 1.69.2 |
 
 # Results
-## Methodology
+## Deployed Tableau Story
+The Tableau Story is available [here](https://public.tableau.com/app/profile/meghan.hull/viz/NYCBikeRidesModule14Challenge/NYCCityBikes).
 
 ## Visualizations
 <!-- There are at least seven visualizations for the NYC Citibike analysis (7 pt)
@@ -81,14 +78,5 @@ There is a description of the results for each visualization (7 pt) -->
 
 # Project Summary
 <!--There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)-->
-The completed map and assosiated files are available in the ***main*** branch folder [Earthquake_Challenge](Earthquake_Challenge/):
-1. [index.html](Earthquake_Challenge/index.html)
-2. [challenge_logic.js](Earthquake_Challenge/static/js/challenge_logic.js)
-3. [style.css](Earthquake_Challenge/static/css/style.css)
 
-<details><summary>View Screenshot of Final Map</summary>
-  <p>
-  <img src="images/challenge_map.png">
-  </p>
-</details>
 
